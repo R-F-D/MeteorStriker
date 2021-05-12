@@ -48,7 +48,7 @@ var LocalizedTexts	= (()=>{return{
 
 		//プレイボタン Play Button
 		"Title.Button.Play":{
-			_:	"Play game",
+			_:	"Start the game!",
 			ja:	"ゲームをプレイ",
 			tw:	"玩遊戲",
 			ko:	"게임하다",
@@ -56,7 +56,7 @@ var LocalizedTexts	= (()=>{return{
 
 		//レコードボタン Records Button
 		"Title.Button.Records":{
-			_:	"Achievements and records.",
+			_:	"View your achievements and records.",
 			ja:	"実績と記録",
 			tw:	"成就和記錄",
 			ko:	"실적 및 기록",
@@ -64,7 +64,7 @@ var LocalizedTexts	= (()=>{return{
 
 		//ヘルプボタン Help Button
 		"Title.Button.Help":{
-			_:	"How to play, and so on.",
+			_:	"How to play the game, etc.",
 			ja:	"ゲームの遊び方など",
 			tw:	"怎麼玩等等",
 			ko:	"게임 방법 등",
@@ -72,7 +72,7 @@ var LocalizedTexts	= (()=>{return{
 
 		//設定ボタン Settings Button
 		"Title.Button.Settings":{
-			_:	"Settings.",
+			_:	"Change the game settings.",
 			ja:	"設定",
 			tw:	"設定",
 			ko:	"설정",
@@ -80,7 +80,7 @@ var LocalizedTexts	= (()=>{return{
 
 		//ウェブページボタン Webpage Button
 		"Title.Button.Home":{
-			_:	"Go to the webpage.",
+			_:	"The game's webpage.",
 			ja:	"ウェブページ",
 			tw:	"網頁",
 			ko:	"웹 페이지",
@@ -88,7 +88,7 @@ var LocalizedTexts	= (()=>{return{
 
 		//ハッシュタグ検索 Hashtag Search Button
 		"Title.Button.Search":{
-			_:	"Hashtag search.",
+			_:	"Do a hashtag search.",
 			ja:	"ハッシュタグ検索",
 			tw:	"標籤搜索",
 			ko:	"해시 태그 검색",
@@ -110,7 +110,7 @@ var LocalizedTexts	= (()=>{return{
 
 		//遷移中 Transition Message
 		"Logo.ToStart":{
-			_:	"Clck / Tap  to  start",
+			_:	"Click or Tap to Start",
 			ja:	"クリック/タップでスタート",
 			tw:	"",
 			ko:	"",
@@ -140,7 +140,7 @@ var LocalizedTexts	= (()=>{return{
 
 		//エイミングバー作動中 Booting Aim Bar
 		"GamePlay.Navigator.Aim":{
-			_:	"Take aim and long tap to charge.",
+			_:	"Set your sights on it and hold to charge!",
 			ja:	"ねらいを定めて長押ししてね",
 			tw:	"",
 			ko:	"",
@@ -148,7 +148,7 @@ var LocalizedTexts	= (()=>{return{
 
 		//チャージ動作中 Charging
 		"GamePlay.Navigator.Preliminary":{
-			_:	"Release to attack.",
+			_:	"Release to attack!",
 			ja:	"はなすと攻撃だよ",
 			tw:	"",
 			ko:	"",
@@ -156,7 +156,7 @@ var LocalizedTexts	= (()=>{return{
 
 		//打撃失敗 Failed to Blow
 		"GamePlay.Navigator.Fail":{
-			_:	"Release at the right time.",
+			_:	"Release at the right time!",
 			ja:	"タイミングよく はなしてね",
 			tw:	"",
 			ko:	"",
@@ -164,7 +164,7 @@ var LocalizedTexts	= (()=>{return{
 
 		//エミット中 Emitting
 		"GamePlay.Navigator.Emit":{
-			_:	"The power rises with taps.",
+			_:	"Tap to power up!",
 			ja:	"タップでパワーアップするよ",
 			tw:	"",
 			ko:	"",
@@ -172,7 +172,7 @@ var LocalizedTexts	= (()=>{return{
 
 		//結果表示 Result
 		"GamePlay.Navigator.Leave":{	//宇宙戦艦ヤマト OPナレーション
-			_:	"Momoko arrived at the Large Million Space\n$0 away from the Earth.",
+			_:	"Momoko-chan has now arrived in the Great Million\nUniverse, $0 away from Earth!",
 			ja:	"桃子ちゃんは、地球から$0の\n彼方にある大ミリオン宇宙へ、いま到達したよ",
 			tw:	"",
 			ko:	"",
@@ -180,7 +180,7 @@ var LocalizedTexts	= (()=>{return{
 
 		//リセットボタン説明 Reset Button
 		"GamePlay.Navigator.Result.Reset":{
-			_:	"You go back to the title screen.",
+			_:	"Go back to the title screen.",
 			ja:	"タイトル画面にもどるよ",
 			tw:	"",
 			ko:	"",
@@ -188,7 +188,7 @@ var LocalizedTexts	= (()=>{return{
 
 		//リトライボタン説明 Retry Button
 		"GamePlay.Navigator.Result.Retry":{
-			_:	"You play this game again.",
+			_:	"Play the game again.",
 			ja:	"もういちどゲームをやるよ",
 			tw:	"",
 			ko:	"",
@@ -196,7 +196,7 @@ var LocalizedTexts	= (()=>{return{
 
 		//シェアボタン説明 Share Button
 		"GamePlay.Navigator.Result.Share":{
-			_:	"You post the score to Twitter.",
+			_:	"Post your results on Twitter.",
 			ja:	"Twitterに結果をつぶやくよ",
 			tw:	"",
 			ko:	"",
@@ -204,7 +204,7 @@ var LocalizedTexts	= (()=>{return{
 
 		//チェックポイント：開始 Check Point : Start
 		"GamePlay.Navigator.BrowAway.Start":{	//おねがいティーチャー
-			_:	"Please Momoko!",
+			_:	"Please ☆ Momoko-chan!",
 			ja:	"おねがい☆桃子ちゃん",
 			tw:	"",
 			ko:	"",
@@ -212,7 +212,7 @@ var LocalizedTexts	= (()=>{return{
 
 		//チェックポイント：金星 Check Point : Venus
 		"GamePlay.Navigator.BrowAway.Venus":{
-			_:	"Are you looking at Venus, Momoko?",
+			_:	"You've come to see Venus, Momoko-chan?",
 			ja:	"金星を見ておいでですか、桃子ちゃん",	//銀河英雄伝説#01
 			tw:	"",
 			ko:	"",
@@ -220,7 +220,7 @@ var LocalizedTexts	= (()=>{return{
 
 		//チェックポイント：火星 Check Point : Mars
 		"GamePlay.Navigator.BrowAway.Mars":{	//宇宙よりも遠い場所
-			_:	"Here is a place futher than Mars.",
+			_:	"That's further than Mars.",
 			ja:	"火星よりも遠い場所だね",
 			tw:	"",
 			ko:	"",
@@ -228,7 +228,7 @@ var LocalizedTexts	= (()=>{return{
 
 		//チェックポイント：水星 Check Point : Mercury
 		"GamePlay.Navigator.BrowAway.Mercury":{	//セーラームーン マーキュリー
-			_:	"I needa douse myself in water and repent.",
+			_:	"I'll have to dabble in water and reflect on that...",
 			ja:	"水をかぶって反省しなきゃ…",
 			tw:	"",
 			ko:	"",
@@ -236,7 +236,7 @@ var LocalizedTexts	= (()=>{return{
 
 		//チェックポイント：太陽 Check Point : Sun
 		"GamePlay.Navigator.BrowAway.Sun":{	//宇宙戦艦ヤマト#10
-			_:	"Farewell, the sun!\nFrom the theater with love.",
+			_:	"Farewell, sun!\nFrom the theater with love.",
 			ja:	"さようなら太陽！\nシアターより愛をこめて",
 			tw:	"",
 			ko:	"",
@@ -244,7 +244,7 @@ var LocalizedTexts	= (()=>{return{
 
 		//チェックポイント：きらりんロボ通過 Check Point : Kirarin Robot
 		"GamePlay.Navigator.BrowAway.Kirari":{	//機動戦士ガンダム 台詞「人間よりMSが大切なんですか」
-			_:	"Listen Momoko.\nAre you more far than Kirarin Robot?",
+			_:	"Is Momoko farther away\nthan Kirarin-Robo?",
 			ja:	"桃子ちゃんはきらりんロボより遠方なんですか？",
 			tw:	"",
 			ko:	"",
@@ -252,7 +252,7 @@ var LocalizedTexts	= (()=>{return{
 
 		//チェックポイント：最終 Check Point : Last
 		"GamePlay.Navigator.BrowAway.Unicorn":{	//機動戦士ガンダム
-			_:	"I see them! I can see a pink unicorn!",
+			_:	"I can see it! I can see the pink unicorn too!",
 			ja:	"みえるよ！ わたしにもピンクのユニコーンがみえる！",
 			tw:	"",
 			ko:	"",
@@ -266,14 +266,14 @@ var LocalizedTexts	= (()=>{return{
 
 		//ロックパネル（ロック時） Locked
 		"Settings.LockPanel.Locked": {
-			_:	"This selector is locked.",
+			_:	"Item locked",
 			ja:	"この項目はロックされています",
 			tw:	"該選擇器已鎖定",
 			ko:	"이 선택기가 잠겨 있습니다.",
 		},
 		//ロックパネル（解除可能時） Unlock-able
 		"Settings.LockPanel.Breakable": {
-			_:	"Click/Tap here.",
+			_:	"Click or Tap Anywhere",
 			ja:	"クリック/タップしてください",
 			tw:	"請點擊此處",
 			ko:	"여기를 클릭/탭하 십시오.",
@@ -288,7 +288,7 @@ var LocalizedTexts	= (()=>{return{
 		},
 		//ロックパネルの達成された解除条件 Filled Conditions
 		"Settings.LockPanel.Filled": {
-			_:	"Filled: $0",
+			_:	"Achieved: $0",
 			ja:	"達成：$0",
 			tw:	"已清除: $0",
 			ko:	"클리어: $0",
@@ -308,8 +308,8 @@ var LocalizedTexts	= (()=>{return{
 		"Settings.Locale.Label.ko":	{_:	"한국\nKorean",},			//Korea
 
 		"Settings.Locale.Aleart":{	//Message When Switch Language
-			_:	"Sorry.\nThe texts are machine translated.",
-			en:	"Sorry.\nThe texts are machine translated.\n\nPlease send me your translation!",
+			_:	"Sorry.\nThe texts are machine-translated.",
+			en:	"The original English texts were originally machine-translated by R.F.D.,\nthe developer of this game.\n\nThe English texts were improved by MattMayuga.",
 			//ja: アラートなし No alert
 			tw:	"抱歉。\n這些文本是機器翻譯的。\n現在，大多數文本都未翻譯。\n請給我您的翻譯！",
 			ko:	"죄송합니다.\n텍스트는 기계 번역됩니다.\n이제 대부분의 텍스트가 번역되지 않았습니다.\n번역을 보내주세요!",
@@ -355,7 +355,7 @@ var LocalizedTexts	= (()=>{return{
 		"Settings.Meteorite.Label.Triangle":	{_:"Triangle",		en:"△Triangle",    ja:"△さんかく",	  tw:"△三角",    ko:"△삼각",	},	//Triangle
 
 		"Settings.Meteorite.Locked":	{
-			_:	"Unlocking achievement \"Momoko Dakedo.\"",
+			_:	"Get the achievement \"Momoko Dakedo.\"",
 			ja:	"実績「桃子だけど。」の解除",
 			tw:	"解鎖成就\"桃子Dakedo。\"",
 			ko:	"과제\"모모코Dakedo.\"해제",
@@ -368,12 +368,12 @@ var LocalizedTexts	= (()=>{return{
 			tw:	"導航者",
 			ko:	"항해자",
 		},
-		"Settings.Navigator.Label.Normal":	{_:	"NAKATANI\nIku",			ja:"中谷育",				tw:"中谷育",		ko:"나카타니\n이쿠.",	},	//Iku
+		"Settings.Navigator.Label.Normal":	{_:	"Iku\nNakatani",			ja:"中谷育",				tw:"中谷育",		ko:"나카타니\n이쿠.",	},	//Iku
 		"Settings.Navigator.Label.Golem":	{_:	"First\nFriend",			ja:"初めての\nともだち",	tw:"第一個朋友",	ko:"첫 친구",			},	//Golem
-		"Settings.Navigator.Label.Goddess":	{_:	"Goddess of\nThe Earth",	ja:"大地の女神",			tw:"大地女神",		ko:"대지의 여신",		},	//Goddess
+		"Settings.Navigator.Label.Goddess":	{_:	"Goddess of\n Earth",	ja:"大地の女神",			tw:"大地女神",		ko:"대지의 여신",		},	//Goddess
 
 		"Settings.Navigator.Locked":	{
-			_:	"Saving the Earth 5 times",
+			_:	"Save the world five times",
 			ja:	"世界を5回救う",
 			tw:	"保護地球5次",
 			ko:	"지구를 5번 보호합니다",
@@ -381,7 +381,7 @@ var LocalizedTexts	= (()=>{return{
 
 		//データのトランスポート Storage Transporting
 		"Settings.Transport":	{
-			_:	"Data Transporting",
+			_:	"Data transport",
 			ja:	"データのトランスポート",
 			tw:	"資料傳輸",
 			ko:	"데이터 전송",
@@ -390,13 +390,13 @@ var LocalizedTexts	= (()=>{return{
 		"Settings.Transport.Label.Export":	{_:"Export",	ja:"エクスポート",	tw:"匯出",	ko:"내보내기",	},	//Export
 
 		"Settings.Transport.Dialog.Import":{
-			_:	"Paste the saved text into the input field.",
+			_:	"Please paste the saved text into the input field.",
 			ja:	"保存したテキストを入力欄にペーストしてください。",
 			tw:	"將保存的文本粘貼到輸入字段中。",
 			ko:	"데이터 전송.",
 		},
 		"Settings.Transport.Dialog.Export":{
-			_:	"Copy this text and save it.",
+			_:	"Please copy and save the following text.",
 			ja:	"以下のテキストをコピーし保存してください。",
 			tw:	"複製此文本並保存。",
 			ko:	"이 텍스트를 복사하여 저장하십시오.",
@@ -404,36 +404,36 @@ var LocalizedTexts	= (()=>{return{
 
 		//ストレージ管理 Storage Management
 		"Settings.Storage":	{
-			_:	"Storage Management",
+			_:	"Storage management",
 			ja:	"ストレージ管理",
 			tw:	"倉儲管理",
 			ko:	"스토리지 관리",
 		},
-		"Settings.Storage.Label.RemoveSettings":	{_:	"Remove\nSettings",		ja:"設定の削除",	tw:"移除設定",	ko:"설정 제거",	},	//Remove settings
-		"Settings.Storage.Label.RemoveRecords":		{_:	"Remove\nRecords",		ja:"記録の削除",	tw:"移除記錄",	ko:"기록 제거",	},	//Remove records
-		"Settings.Storage.Label.RemoveAchievements":{_:	"Remove\nAchievements",	ja:"実績の削除",	tw:"移除成就",	ko:"과제 제거",	},	//Remove achievements
-		"Settings.Storage.Label.Remove":			{_:	"Remove All",			ja:"全削除",		tw:"全部移除",	ko:"전체 제거",	},	//Remove all data
+		"Settings.Storage.Label.RemoveSettings":	{_:	"Delete\nsettings",		ja:"設定の削除",	tw:"移除設定",	ko:"설정 제거",	},	//Remove settings
+		"Settings.Storage.Label.RemoveRecords":		{_:	"Delete\nrecords",		ja:"記録の削除",	tw:"移除記錄",	ko:"기록 제거",	},	//Remove records
+		"Settings.Storage.Label.RemoveAchievements":{_:	"Delete\nachievements",	ja:"実績の削除",	tw:"移除成就",	ko:"과제 제거",	},	//Remove achievements
+		"Settings.Storage.Label.Remove":			{_:	"Delete all",			ja:"全削除",		tw:"全部移除",	ko:"전체 제거",	},	//Remove all data
 
 		"Settings.Storage.Confirm.RemoveSettings":{
-			_:	"Are you sure you want to remove the game settings?",
+			_:	"Are you sure you want to delete game settings?",
 			ja:	"ゲーム設定を削除しますか？",
 			tw:	"",
 			ko:	"",
 		},
 		"Settings.Storage.Confirm.RemoveRecords":{
-			_:	"Are you sure you want to remove the play records?",
+			_:	"Are you sure you want to delete your play records?",
 			ja:	"プレイ記録を削除しますか？",
 			tw:	"",
 			ko:	"",
 		},
 		"Settings.Storage.Confirm.RemoveAchievements":{
-			_:	"Are you sure you want to remove the achievements?",
+			_:	"Are you sure you want to delete your achievements?",
 			ja:	"実績を削除しますか？",
 			tw:	"",
 			ko:	"",
 		},
 		"Settings.Storage.Confirm.Remove":{
-			_:	"Are you sure you want to remove all data?",
+			_:	"Are you sure you want to delete all data?",
 			ja:	"全てのデータを削除しますか？",
 			tw:	"",
 			ko:	"",
@@ -469,7 +469,7 @@ var LocalizedTexts	= (()=>{return{
 
 		//直近の平均飛距離
 		"Records.GamePlay.MeanDistance":{
-			_:	"Latest Mean Distance",
+			_:	"Recent average distance",
 			ja:	"直近の平均飛距離",
 			tw:	"",
 			ko:	"",
@@ -480,31 +480,31 @@ var LocalizedTexts	= (()=>{return{
 
 		//チェックポイント通過回数
 		"Records.GamePlay.NumPassings.00":{
-			_:	"Arrivals at the Sun",
+			_:	"Solar arrivals",
 			ja:	"太陽到達回数",
 			tw:	"",
 			ko:	"",
 		},
 		"Records.GamePlay.NumPassings.01":{
-			_:	"Kirarin Robot Passings",
+			_:	"Kirarin-Robo passes",
 			ja:	"きらりんロボ通過回数",
 			tw:	"",
 			ko:	"",
 		},
 		"Records.GamePlay.NumPassings.01.Secret":{
-			_:	"???????? Passings",
+			_:	"???????? passes",
 			ja:	"？？？？通過回数",
 			tw:	"",
 			ko:	"",
 		},
 		"Records.GamePlay.NumPassings.02":{
-			_:	"Found Pink Unicorns",
+			_:	"Pink Unicorns found",
 			ja:	"ピンクのユニコーン発見数",
 			tw:	"",
 			ko:	"",
 		},
 		"Records.GamePlay.NumPassings.02.Secret":{
-			_:	"Found ????????",
+			_:	"???????? found",
 			ja:	"？？？？発見数",
 			tw:	"",
 			ko:	"",
@@ -518,7 +518,7 @@ var LocalizedTexts	= (()=>{return{
 
 		//グッド以上の回数 Good/Perfect Aims
 		"Records.GamePlay.NumGoods":{
-			_:	"Good Aims",
+			_:	"Good aims",
 			ja:	"グッドエイム",
 			tw:	"",
 			ko:	"",
@@ -526,7 +526,7 @@ var LocalizedTexts	= (()=>{return{
 
 		//パーフェクト回数 Perfect Aims
 		"Records.GamePlay.NumPerfects":{
-			_:	"Perfect Aims",
+			_:	"Perfect aims",
 			ja:	"パーフェクトエイム",
 			tw:	"",
 			ko:	"",
@@ -534,7 +534,7 @@ var LocalizedTexts	= (()=>{return{
 
 		//100%エイム回数 100% Aims
 		"Records.GamePlay.NumTruePerfects":{
-			_:	"100% Perfect Aims",
+			_:	"100% perfect aims",
 			ja:	"100%パーフェクトエイム",
 			tw:	"",
 			ko:	"",
@@ -542,7 +542,7 @@ var LocalizedTexts	= (()=>{return{
 
 		//最高エイミング精度 Best Aiming Accurasy
 		"Records.GamePlay.BestAiming":{
-			_:	"Best Aiming Accurasy",
+			_:	"Highest aiming accuracy",
 			ja:	"最高エイミング精度",
 			tw:	"",
 			ko:	"",
@@ -553,7 +553,7 @@ var LocalizedTexts	= (()=>{return{
 
 		//直近の平均エイミング精度 Latest Mean Aiming Accurasy
 		"Records.GamePlay.MeanAiming":{
-			_:	"Latest Mean Aiming Accuracy",
+			_:	"Recent average aiming accuracy",
 			ja:	"直近の平均エイミング精度",
 			tw:	"",
 			ko:	"",
@@ -564,7 +564,7 @@ var LocalizedTexts	= (()=>{return{
 
 		//強打回数 Hardblows
 		"Records.GamePlay.NumHardBlowings":{
-			_:	"Hardblows",
+			_:	"Hard blows",
 			ja:	"強打",
 			tw:	"",
 			ko:	"",
@@ -572,7 +572,7 @@ var LocalizedTexts	= (()=>{return{
 
 		//全力打撃回数 Full Power Blows
 		"Records.GamePlay.NumFullPowerBlowings":{
-			_:	"Full Power Blows",
+			_:	"Full force blows",
 			ja:	"全力打撃",
 			tw:	"",
 			ko:	"",
@@ -580,7 +580,7 @@ var LocalizedTexts	= (()=>{return{
 
 		//強打とパーフェクトを同時に出した回数 Hardblow and Perfect
 		"Records.GamePlay.NumHardAndPerfectBlowings":{
-			_:	"Hardblow And Perfect",
+			_:	"Hard hits and perfects",
 			ja:	"強打＆パーフェクト",
 			tw:	"",
 			ko:	"",
@@ -588,7 +588,7 @@ var LocalizedTexts	= (()=>{return{
 
 		//打撃最高倍率 Best Blowing Rate
 		"Records.GamePlay.BestBlowing":{
-			_:	"Best Blowing Rate",
+			_:	"Max. impact ratio",
 			ja:	"最高打撃倍率",
 			tw:	"",
 			ko:	"",
@@ -599,7 +599,7 @@ var LocalizedTexts	= (()=>{return{
 
 		//直近の平均打撃倍率 Latest Mean Blowing Rate
 		"Records.GamePlay.MeanBlowing":{
-			_:	"Latest Mean Blowing Rate",
+			_:	"Recent average strike multiplier",
 			ja:	"直近の平均打撃倍率",
 			tw:	"",
 			ko:	"",
@@ -610,7 +610,7 @@ var LocalizedTexts	= (()=>{return{
 
 		//失敗せずに連続して打撃を成功させた数 Hits in a Row Without Failure.",
 		"Records.GamePlay.MaxSuccessiveHits":{
-			_:	"Max Successive Hits",
+			_:	"Max consecutive hits",
 			ja:	"最大連続ヒット",
 			tw:	"",
 			ko:	"",
@@ -618,7 +618,7 @@ var LocalizedTexts	= (()=>{return{
 
 		//エミット最高倍率 Best Emitting Rate
 		"Records.GamePlay.MaxEmittings":{
-			_:	"Max Emitting Rate",
+			_:	"Max emitting rate",
 			ja:	"最高エミット倍率",
 			tw:	"",
 			ko:	"",
@@ -629,7 +629,7 @@ var LocalizedTexts	= (()=>{return{
 
 		//直近の平均エミット倍率 Latest Mean Emitting Rate
 		"Records.GamePlay.MeanEmitting":{
-			_:	"Latest Mean Emitting Rate",
+			_:	"Recent average emit multiplier",
 			ja:	"直近の平均エミット倍率",
 			tw:	"",
 			ko:	"",
@@ -648,7 +648,7 @@ var LocalizedTexts	= (()=>{return{
 
 		//リトライ回数 Number of Retrys
 		"Records.Action.NumRetrys":{
-			_:	"Retrys",
+			_:	"Times retried",
 			ja:	"リトライ回数",
 			tw:	"",
 			ko:	"",
@@ -656,7 +656,7 @@ var LocalizedTexts	= (()=>{return{
 
 		//起動回数 Number of Bootings
 		"Records.Action.NumBootings":{
-			_:	"Bootings",
+			_:	"Started up",
 			ja:	"起動回数",
 			tw:	"",
 			ko:	"",
@@ -664,7 +664,7 @@ var LocalizedTexts	= (()=>{return{
 
 		//推定実行時間 Estimated Run Time
 		"Records.Action.RunTime":{
-			_:	"Run Time",
+			_:	"Game time",
 			ja:	"起動時間",
 			tw:	"",
 			ko:	"",
@@ -675,7 +675,7 @@ var LocalizedTexts	= (()=>{return{
 
 		//推定合計実行時間 Estimated Total Run Time
 		"Records.Action.TotalRunTime":{
-			_:	"Total Run Time",
+			_:	"Total time",
 			ja:	"合計起動時間",
 			tw:	"",
 			ko:	"",
@@ -686,7 +686,7 @@ var LocalizedTexts	= (()=>{return{
 
 		//シェア回数 Number of Shares
 		"Records.Action.NumShares":{
-			_:	"Shares",
+			_:	"Times shared",
 			ja:	"シェア回数",
 			tw:	"",
 			ko:	"",
@@ -694,7 +694,7 @@ var LocalizedTexts	= (()=>{return{
 
 		//実績解除率（トータル） Ratio of All Unlocked Achievements
 		"Records.Action.TotalUnlockedAchievements":{
-			_:	"Achievement Ratio",
+			_:	"Achievement progress",
 			ja:	"実績達成率",
 			tw:	"",
 			ko:	"",
@@ -754,31 +754,31 @@ var LocalizedTexts	= (()=>{return{
 
 		//各ナビゲーション回数 Number of Navigates
 		"Records.Action.NumNavigates.00":{
-			_:	"NAKATANI Iku Navigates",
+			_:	"Times Navigated as Iku Nakatani",
 			ja:	"中谷育のナビ回数",
 			tw:	"",
 			ko:	"",
 		},
 		"Records.Action.NumNavigates.01":{
-			_:	"First Friend Navigates",
+			_:	"Times Navigated as First Friend",
 			ja:	"初めてのともだちのナビ回数",
 			tw:	"",
 			ko:	"",
 		},
 		"Records.Action.NumNavigates.01.Secret":{
-			_:	"???????? Navigates",
+			_:	"Times Navigated as ????????",
 			ja:	"？？？？のナビ回数",
 			tw:	"",
 			ko:	"",
 		},
 		"Records.Action.NumNavigates.02":{
-			_:	"Goddess of The Earth Navigates",
+			_:	"Times Navigated as Earth Goddess",
 			ja:	"大地の女神のナビ回数",
 			tw:	"",
 			ko:	"",
 		},
 		"Records.Action.NumNavigates.02.Secret":{
-			_:	"???????? Navigates",
+			_:	"Times Navigated as ????????",
 			ja:	"？？？？のナビ回数",
 			tw:	"",
 			ko:	"",
@@ -786,7 +786,7 @@ var LocalizedTexts	= (()=>{return{
 
 		//プレイヤーキャラクターをタッチした回数 Number of Touches Player Character
 		"Records.Action.NumTouchesPlayer":{
-			_:	"Touches Momoko",
+			_:	"Times Touched Momoko",
 			ja:	"桃子にタッチした回数",
 			tw:	"",
 			ko:	"",
@@ -842,7 +842,7 @@ var LocalizedTexts	= (()=>{return{
 
 		//ツイート文字列 Tweet Text
 		"About.Share.Text":{
-			_:	"Momoko flew the meteorite to $0$1 away!",
+			_:	"Momoko-chan blew up a meteorite from $0$1 away!",
 			ja:	"桃子ちゃんは隕石を$0$1吹っ飛ばしました！",
 			tw:	"桃子飛行了隕石$0$1！",
 			ko:	"모모코는 운석을 $0$1 떨어 뜨 렸습니다!",
@@ -864,7 +864,7 @@ var LocalizedTexts	= (()=>{return{
 
 		//実績解除ラベル Label of Unlocking
 		"Achievement.Unlocked" :{
-			_:	"Achievement Unlocked!",
+			_:	"Achievement Get!",
 			ja:	"実績解除！",
 			tw:	"成就解鎖！",
 			ko:	"과제 해제！",
@@ -892,7 +892,7 @@ var LocalizedTexts	= (()=>{return{
 			ko:	"",
 		},
 		"Achievement.Aiming.ManyPerfect.Text":{
-			_:	"Got $0 perfect aims.\nWe'll surely see a new world.",
+			_:	"Achieved $0 perfect hits.\nThere's a new world you will surely see.",
 			ja:	"$0回パーフェクトを出した。\n必ず見える新しい世界。",
 			tw:	"",
 			ko:	"",
@@ -903,7 +903,7 @@ var LocalizedTexts	= (()=>{return{
 			_:	"Good-Aims, Baby",
 		},
 		"Achievement.Aiming.ManyGood.Text":{
-			_:	"Got $0 good or better aims.\nHave a good dream.",
+			_:	"Achieved $0 good hits and higher.\nHave a good dream.",
 			ja:	"$0回グッド以上を出した。\nいい夢を。",
 			tw:	"",
 			ko:	"",
@@ -917,7 +917,7 @@ var LocalizedTexts	= (()=>{return{
 			ko:	"",
 		},
 		"Achievement.Aiming.TruePerfect.Text":{
-			_:	"Succeeded in 100% aim.\nMy kawaii doesn't stop.",
+			_:	"Achieved a 100% successful aim.\nThe kawaii never stops.",
 			ja:	"100%エイムに成功した。\nカワイイが止まらない。",
 			tw:	"",
 			ko:	"",
@@ -925,13 +925,13 @@ var LocalizedTexts	= (()=>{return{
 
 		//強打を一定回数 Many Hardblows
 		"Achievement.Blowing.ManyHard":{	//ART NEEDS HAERT BEATS
-			_:	"Art Needs Hard-Brows",
+			_:	"ART NEEDS HARD-BLOWS",
 			ja:	"ART NEEDS HARD-BLOWS",
 			tw:	"ART NEEDS HARD-BLOWS",
 			ko:	"ART NEEDS HARD-BLOWS",
 		},
 		"Achievement.Blowing.ManyHard.Text":{
-			_:	"Hardblowed $0 times.\nExperience you have never.",
+			_:	"You hit it hard $0 times.\nAn experience I've never felt before.",
 			ja:	"$0回強打した。\n感じたことのないエクスペリエンス。",
 			tw:	"",
 			ko:	"",
@@ -946,7 +946,7 @@ var LocalizedTexts	= (()=>{return{
 			ko:	"",
 		},
 		"Achievement.Blowing.HardAndPerfect.Text":{
-			_:	"Hardblowed with a perfect aim $0 times.\n(Note: It's a user thought)",
+			_:	"You hit it hard with a perfect aim $0 times.\n(Note: This is the user's opinion)",
 			ja:	"強打でパーフェクトを$0回出した。\n(注:使用者の感想です)",
 			tw:	"",
 			ko:	"",
@@ -960,7 +960,7 @@ var LocalizedTexts	= (()=>{return{
 			ko:	"L’ANTICA!",
 		},
 		"Achievement.Blowing.SuccessiveHits.Text":{
-			_:	"Hit $0 times in a row without failure.\nInto Perpetual Hit Machines, L’ANTICA!",
+			_:	"Hit $0 times in a row without fail.\nWe'll make it a permanent hit, L’ANTICA!",
 			ja:	"失敗せず$0回連続でヒットさせた。\n永久ヒットにしてゆくよ。\"安定化\"",
 			tw:	"",
 			ko:	"",
@@ -974,7 +974,7 @@ var LocalizedTexts	= (()=>{return{
 			ko:	"젠틀 에밋",
 		},
 		"Achievement.Emit.Many01.Text":{
-			_:	"Emitted $0$1 and more.\nNo such the theill-less emittings...",
+			_:	"Emitted $0$1 and above.\nWhat's a thrill-seeking emit without a thrill...",
 			ja:	"エミット倍率$0$1以上を出した。\nスリルのないエミットなんて…",
 			tw:	"",
 			ko:	"",
@@ -988,7 +988,7 @@ var LocalizedTexts	= (()=>{return{
 			ko:	"와일드 에밋",
 		},
 		"Achievement.Emit.Many02.Text":{
-			_:	"Emitted $0$1 and more.\nThe emittings breaked the taboos are...",
+			_:	"Emitted $0$1 and above.\nThe emittings breaked the taboos are...",
 			ja:	"エミット倍率$0$1以上を出した。\nタブーを冒せるエミットは…",
 			tw:	"",
 			ko:	"",
@@ -1002,7 +1002,7 @@ var LocalizedTexts	= (()=>{return{
 			ko:	"위험한 에밋",
 		},
 		"Achievement.Emit.Many03.Text":{
-			_:	"Emitted $0$1 and more.\nIsn’t it impossible?",
+			_:	"Emitted $0$1 and above.\nHow is that possible?",
 			ja:	"エミット倍率$0$1以上を出した。\nありえなくない？",
 			tw:	"",
 			ko:	"",
@@ -1013,7 +1013,7 @@ var LocalizedTexts	= (()=>{return{
 			_:	"Do You Know Venus?",
 		},
 		"Achievement.Check.Venus.Text":{
-			_:	"Flew the meteorite over $1$2.\nThe goddess striked the meteorite so",
+			_:	"You blew a meteorite more than $1$2 away.\nSo the goddess struck a meteorite.",
 			ja:	"隕石を$1$2以上吹っ飛ばした。\nそう女神は隕石を打ち付けた。",
 			tw:	"",
 			ko:	"",
@@ -1027,7 +1027,7 @@ var LocalizedTexts	= (()=>{return{
 			ko:	"",
 		},
 		"Achievement.Check.Mars.Text":{
-			_:	"Flew the meteorite over $1$2.\nEscort me nicely, please?",
+			_:	"You blew a meteorite more than $1$2 away.\nWill you please escort me nicely?",
 			ja:	"隕石を$1$2以上吹っ飛ばした。\n素敵にエスコートしてくださいね?",
 			tw:	"",
 			ko:	"",
@@ -1041,7 +1041,7 @@ var LocalizedTexts	= (()=>{return{
 			ko:	"",
 		},
 		"Achievement.Check.Mercury.Text":{
-			_:	"Flew the meteorite over $1$2.\nLet's go together beyond the space.",
+			_:	"You blew a meteorite more than $1$2 away.\nCome with me to the other side of the universe.",
 			ja:	"隕石を$1$2以上吹っ飛ばした。\n一緒に行こう宇宙の向こうへ。",
 			tw:	"",
 			ko:	"",
@@ -1049,13 +1049,13 @@ var LocalizedTexts	= (()=>{return{
 
 		//太陽到達 Sun
 		"Achievement.Check.Sun":{	//BEYOND THE STARLIGHT
-			_:	"Beyond the Sunlight",
+			_:	"BEYOND THE SUNLIGHT",
 			ja:	"BEYOND THE SUNLIGHT",
 			tw:	"BEYOND THE SUNLIGHT",
 			ko:	"BEYOND THE SUNLIGHT",
 		},
 		"Achievement.Check.Sun.Text":{
-			_:	"Flew the meteorite over $1$2.\nSend farther than anyone else.",
+			_:	"You blew a meteorite more than $1$2 away.\nSend it farther than anyone else.",
 			ja:	"隕石を$1$2以上吹っ飛ばした。\n誰よりも飛ばせ。",
 			tw:	"",
 			ko:	"",
@@ -1069,7 +1069,7 @@ var LocalizedTexts	= (()=>{return{
 			ko:	"",
 		},
 		"Achievement.Check.Kirari.Text":{
-			_:	"Flew the meteorite over $1$2.\nTake off.",
+			_:	"You blew a meteorite more than $1$2 away.\nIt leaps out.",
 			ja:	"隕石を$1$2以上吹っ飛ばした。\n跳び出してゆく。",
 			tw:	"",
 			ko:	"",
@@ -1077,13 +1077,13 @@ var LocalizedTexts	= (()=>{return{
 
 		//2.5億km到達 250,000,000km
 		"Achievement.Check.Unicorn":{	//教え絵last note...
-			_:	"Tell Me the Pink Unicorn...",
+			_:	"Tell Me Pink Unicorn...",
 			ja:	"教えてpink unicorn...",
 			tw:	"",
 			ko:	"",
 		},
 		"Achievement.Check.Unicorn.Text":{
-			_:	"Flew the meteorite over $1$2.\n...I say bye bye.",
+			_:	"You blew a meteorite more than $1$2 away.\n...bye bye.",
 			ja:	"隕石を$1$2以上吹っ飛ばした。\n……バイバイ。",
 			tw:	"",
 			ko:	"",
@@ -1097,7 +1097,7 @@ var LocalizedTexts	= (()=>{return{
 			ko:	"필살의 미티어 스트라이크!",
 		},
 		"Achievement.Action.Complete.Text":{
-			_:	"Unlocked all achievements.\nThe meteorite was KO in one!",
+			_:	"Awarded for unlocking all achievements.\nThat meteorite was KO'd in one shot!",
 			ja:	"全ての実績を解除した。\n隕石なんて一発でKOだったね!",
 			tw:	"",
 			ko:	"",
@@ -1105,13 +1105,13 @@ var LocalizedTexts	= (()=>{return{
 
 		//初プレイ First Play
 		"Achievement.Action.FirstPlay":{	//地球の危機を救うため 周防桃子
-			_:	"For Save the Earth Crisis",
+			_:	"Saved the Planet",
 			ja:	"地球の危機を救うため",
 			tw:	"",
 			ko:	"",
 		},
 		"Achievement.Action.FirstPlay.Text":{
-			_:	"Stopped the meteorite and saved the Earth.\nI have to do something...!",
+			_:	"You saved the world by stopping the meteorite.\nMomoko has to do something about it...!",
 			ja:	"隕石を食い止めて世界を救った。\n桃子がなんとかしなきゃ…!",
 			tw:	"",
 			ko:	"",
@@ -1119,13 +1119,13 @@ var LocalizedTexts	= (()=>{return{
 
 		//リトライ Retry
 		"Achievement.Action.Retry":{	//天井努
-			_:	"Good Luck Next Time!",
+			_:	"Next Time, You'll Do Better!",
 			ja:	"次回も頑張ってもらうぞ！",
 			tw:	"",
 			ko:	"",
 		},
 		"Achievement.Action.Retry.Text":{	//園田智代子 WING優勝
-			_:	"Retryed games $0 times.\nIf I can't meet Momoko,\nor you've made a different choice...\nWhat happened to the Earth...?",
+			_:	"You retried the game $0 times.\nIf I hadn't met Momoko \or made a different choice...\nI was wondering what happened to Earth...",
 			ja:	"ゲームを$0回リトライした。\nもし桃子ちゃんに会えてなかったり\n違う選択してたら…\n地球、どうなってたのかなって…",
 			tw:	"",
 			ko:	"",
@@ -1133,7 +1133,7 @@ var LocalizedTexts	= (()=>{return{
 
 		//結果シェア Share Result
 		"Achievement.Action.Share01":{	//ドレミファクトリー！
-			_:	"Share Your Result",
+			_:	"Share your results",
 			ja:	"結果をシェアして",
 			tw:	"",
 			ko:	"",
@@ -1154,7 +1154,7 @@ var LocalizedTexts	= (()=>{return{
 			ko:	"",
 		},
 		"Achievement.Action.Share02.Text":{
-			_:	"Shared results $0 times.\n(Requires $1+ $2)\nAll, enjoy yourself!",
+			_:	"You shared your results $0 times.\n($1 + $2 required)\nEveryone, have a great time!",
 			ja:	"結果を$0回シェアした。（要$1$2以上）\nみんな、思いっきり楽しんでってねー！",
 			tw:	"",
 			ko:	"",
@@ -1162,13 +1162,13 @@ var LocalizedTexts	= (()=>{return{
 
 		//プレイ時間 Play Time
 		"Achievement.Action.PlayTime":{	//思い出をありがとう
-			_:	"In a Long Time",
+			_:	"in a long time",
 			ja:	"長い時間の中で",
 			tw:	"",
 			ko:	"",
 		},
 		"Achievement.Action.PlayTime.Text":{
-			_:	"The total play time exceeded $0 seconds.\nThank you for the memories.",
+			_:	"Your total play time was over $0 seconds.\nThank you for the memories.",
 			ja:	"合計プレイ時間が$0秒を越えた。思い出をありがとう。",
 			tw:	"",
 			ko:	"",
@@ -1182,7 +1182,7 @@ var LocalizedTexts	= (()=>{return{
 			ko:	"",
 		},
 		"Achievement.Action.BootDays.Text":{
-			_:	"Booted the game a total of $0 days.\nFeel like a home game...",
+			_:	"You started the game for $0 days in total.\nFeel like a home game...",
 			ja:	"計$0日間ゲームを起動した。\nFeel like a home game...",
 			tw:	"",
 			ko:	"",
@@ -1190,13 +1190,13 @@ var LocalizedTexts	= (()=>{return{
 
 		//最終起動日からの時間経過
 		"Achievement.Action.DaysPassed":{	//小宮果穂（轟！紅蘭偉魔空珠 番外地）
-			_:	"I Haven't Seen You Before...!",
+			_:	"I haven't seen you in here before...!",
 			ja:	"見ない顔ですねぇ…！",
 			tw:	"",
 			ko:	"",
 		},
 		"Achievement.Action.DaysPassed.Text":{	//小宮果穂（五色爆発！合宿クライマックス！）
-			_:	"$0 days passed since the last booting\n(or started $1 consecutive days).\nMOMOKO...SAVES MANY WORLDS A LOT!",
+			_:	"It's been $0 days passed since you last started up the game\n(or $1 days in a row).\nMomoko-chan is... saving many worlds!",
 			ja:	"最後に起動してから$0日が経過した\n（連続$1日間の起動でも可）。\n桃子ちゃんはー……いろんな世界を、いっぱい救いまーす！",
 			tw:	"",
 			ko:	"",
@@ -1224,7 +1224,7 @@ var LocalizedTexts	= (()=>{return{
 			ko:	"모모코Dakedo.",
 		},
 		"Achievement.Action.TouchPlayer.Text":{
-			_:	"Touched Momoko in the title. \nWell then, see you.",
+			_:	"Touched Momoko on the title screen. \nI'll see you then.",
 			ja:	"タイトル画面で桃子にタッチした。\nそれじゃあ、またね。",
 			tw:	"",
 			ko:	"",
@@ -1238,7 +1238,7 @@ var LocalizedTexts	= (()=>{return{
 			ko:	"",
 		},
 		"Achievement.Action.Meteorite00.Text":{
-			_:	"Rejected meteorites $0 times.\nSee off the orange rocks.",
+			_:	"You repelled the meteorite $0 times.\nForego the orange rock.",
 			ja:	"隕石を$0回退けた。\nオレンジ色の岩を見送って。",
 			tw:	"",
 			ko:	"",
@@ -1252,8 +1252,8 @@ var LocalizedTexts	= (()=>{return{
 			ko:	"",
 		},
 		"Achievement.Action.Meteorite01.Text":{
-			_:	"Rejected teddy bears $0 times.\n(N-No!)",
-			en:	"Rejected Kuma-kun $0 times.\n(N-No!)",
+			_:	"Fought off teddy bears $0 times.\n(N-No!)",
+			en:	"Fought off Kuma-kun $0 times.\n(N-No!)",
 			ja:	"クマくんを$0回退けた。\n（だっ だめ…！）",
 			tw:	"",
 			ko:	"",
@@ -1268,7 +1268,7 @@ var LocalizedTexts	= (()=>{return{
 			ko:	"",
 		},
 		"Achievement.Action.Meteorite02.Text":{
-			_:	"Rejected triangles $0 times.\nI'm not afraid to enter atmosphere.",
+			_:	"Retreated from the triangles $0 times.\nI'm not afraid to enter the atmosphere.",
 			ja:	"さんかくを$0回退けた。\n大気圏突入も怖くない。",
 			tw:	"",
 			ko:	"",
@@ -1276,13 +1276,13 @@ var LocalizedTexts	= (()=>{return{
 
 		//ナビゲータ（ノーマル）使用
 		"Achievement.Action.Navigate00":{	//エージェント夜を往く
-			_:	"Navigator Goes The Space",
+			_:	"Navigator Goes Through Space",
 			ja:	"ナビゲーター宇宙を往く",
 			tw:	"",
 			ko:	"",
 		},
 		"Achievement.Action.Navigate00.Text":{
-			_:	"NAKATANI Iku navigated $0 times.\nI can lead you completely everywhere.",
+			_:	"Iku Nakatani has navigated $0 times.\nI can lead you down any road perfectly.",
 			ja:	"中谷育が$0回ナビゲートした。\nどんな道も万全に率いられる。",
 			tw:	"",
 			ko:	"",
@@ -1293,7 +1293,7 @@ var LocalizedTexts	= (()=>{return{
 			_:	"Wandering Golem Navigator",
 		},
 		"Achievement.Action.Navigate01.Text":{
-			_:	"First friend navigated $0 times.\nAs I have a something to reach for.",
+			_:	"My first friend has navigated it $0 times.\nI have something to aim for.",
 			ja:	"初めてのともだちが$0回ナビゲートした。\n目指すものがあるから。",
 			tw:	"",
 			ko:	"",
@@ -1307,11 +1307,10 @@ var LocalizedTexts	= (()=>{return{
 			ko:	"",
 		},
 		"Achievement.Action.Navigate02.Text":{
-			_:	"Goddess of the earth navigated $0 times.\nStart running to the base of radiance.",
+			_:	"Earth Goddess has navigated $0 times.\nRun to the source of brilliance.",
 			ja:	"大地の女神が$0回ナビゲートした。\n輝きのたもとへ走り出そうよ。",
 			tw:	"",
 			ko:	"",
 		},
 
 }})();
-
